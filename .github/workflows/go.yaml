@@ -40,3 +40,8 @@ jobs:
           make generate
           make test
           make validate
+
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
