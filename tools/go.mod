@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/bufbuild/buf v1.14.0
-	github.com/douyu/jupiter v0.0.0-20230327022524-c9fab997d989
+	github.com/douyu/jupiter v0.11.4
 	github.com/envoyproxy/protoc-gen-validate v0.9.1
 	github.com/go-swagger/go-swagger v0.30.4
 	github.com/google/wire v0.5.0
