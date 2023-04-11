@@ -50,8 +50,3 @@ Serve Swagger Docs
 ```bash
 make serve
 ```
-
-License
----
-
-MIT
