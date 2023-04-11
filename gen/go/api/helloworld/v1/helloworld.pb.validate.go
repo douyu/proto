@@ -57,7 +57,16 @@ func (m *SayHelloRequest) validate(all bool) error {
 
 	var errors []error
 
-	// no validation rules for Name
+	if m.GetName() != "bob" {
+		err := SayHelloRequestValidationError{
+			field:  "Name",
+			reason: "value must equal bob",
+		}
+		if !all {
+			return err
+		}
+		errors = append(errors, err)
+	}
 
 	if len(errors) > 0 {
 		return SayHelloRequestMultiError(errors)
