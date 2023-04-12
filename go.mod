@@ -5,12 +5,12 @@ go 1.19
 require (
 	github.com/douyu/jupiter v0.11.0
 	github.com/envoyproxy/protoc-gen-validate v0.10.1
-	github.com/grpc-ecosystem/grpc-gateway/v2 v2.15.0
+	github.com/grpc-ecosystem/grpc-gateway/v2 v2.15.2
 	github.com/labstack/echo/v4 v4.10.2
 	github.com/srikrsna/protoc-gen-gotag v0.6.2
 	github.com/stretchr/testify v1.8.2
-	google.golang.org/genproto v0.0.0-20221207170731-23e4bf6bdc37
-	google.golang.org/grpc v1.53.0-dev
+	google.golang.org/genproto v0.0.0-20230223222841-637eb2293923
+	google.golang.org/grpc v1.53.0
 	google.golang.org/protobuf v1.30.0
 )
 
