@@ -9,8 +9,8 @@ require (
 	github.com/labstack/echo/v4 v4.10.2
 	github.com/srikrsna/protoc-gen-gotag v0.6.2
 	github.com/stretchr/testify v1.8.2
-	google.golang.org/genproto v0.0.0-20221207170731-23e4bf6bdc37
-	google.golang.org/grpc v1.53.0-dev
+	google.golang.org/genproto v0.0.0-20230110181048-76db0878b65f
+	google.golang.org/grpc v1.55.0-dev
 	google.golang.org/protobuf v1.30.0
 )
 
