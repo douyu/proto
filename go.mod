@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/douyu/jupiter v0.11.7
-	github.com/envoyproxy/protoc-gen-validate v1.0.0
+	github.com/envoyproxy/protoc-gen-validate v1.0.1
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.15.2
 	github.com/labstack/echo/v4 v4.10.2
 	github.com/srikrsna/protoc-gen-gotag v0.6.2
