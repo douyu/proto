@@ -8,7 +8,7 @@ require (
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.15.2
 	github.com/labstack/echo/v4 v4.10.2
 	github.com/srikrsna/protoc-gen-gotag v0.6.2
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.8.3
 	google.golang.org/genproto v0.0.0-20230306155012-7f2fa6fef1f4
 	google.golang.org/grpc v1.55.0
 	google.golang.org/protobuf v1.30.0
