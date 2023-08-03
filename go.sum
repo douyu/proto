@@ -2,8 +2,8 @@ github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ3
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/douyu/jupiter v0.11.10 h1:VKAIhdEFOlCYAa211wCF7st1mawyQB54f9kp7j9r6Mo=
-github.com/douyu/jupiter v0.11.10/go.mod h1:XXMWC+CYX7gTDAQgHOyo7E1FFRH+aDpNUbYbUnUd47w=
+github.com/douyu/jupiter v0.11.11 h1:2sVCkaO2LVjb7SlFBkGRX2L3C5smXVyckgLRXgk2rqc=
+github.com/douyu/jupiter v0.11.11/go.mod h1:zBLTrMbVbjnytgo1dNYLfX1oy97GFYx1KxD6Yp1v86I=
 github.com/envoyproxy/protoc-gen-validate v1.0.2 h1:QkIBuU5k+x7/QXPvPPnWXWlCdaBFApVqftFV6k087DA=
 github.com/envoyproxy/protoc-gen-validate v1.0.2/go.mod h1:GpiZQP3dDbg4JouG/NNS7QWXpgx6x8QiMKdmN72jogE=
 github.com/fatih/structtag v1.2.0/go.mod h1:mBJUNpUnHmRKrKlQQlmCrh5PuhftFbNv8Ys4/aAZl94=
