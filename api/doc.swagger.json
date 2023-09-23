@@ -191,10 +191,11 @@
       "type": "integer",
       "format": "int32",
       "enum": [
-        1,
-        2
+        "1",
+        "2"
       ],
-      "description": "- 1: SEX_MALE ...\n - 2: SEX_FEMALE ...",
+      "default": "0",
+      "description": "- 0: SEX_UNSPECIFIED ...\n - 1: SEX_MALE ...\n - 2: SEX_FEMALE ...",
       "title": "Sex"
     }
   }
