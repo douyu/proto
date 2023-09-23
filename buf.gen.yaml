@@ -34,10 +34,13 @@ plugins:
       - paths=source_relative
 
   - name: openapiv2
-    out: gen/go/api
+    out: api
+    strategy: all
     opt: 
       - disable_default_errors=true
-      # - enums_as_ints=true
-      # - omit_enum_default_value=true
-      - generate_unbound_methods=true
+      - enums_as_ints=true
+      - omit_enum_default_value=true
+      - generate_unbound_methods=false
       - include_package_in_tags=true
+      - allow_merge=true
+      - merge_file_name=doc
